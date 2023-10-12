@@ -19,3 +19,4 @@ The Bash scripts need WSL on Windows. Install Ubuntu 20.04 on WSL - that's where
 To install Plotly and dependencies, use Anaconda. It's probably best to install everything via Anaconda, `runall.bat` expects that (via `env.bat`). Especially Orca (a Plotly dependency) is hard to install otherwise, at least on Windows. fuzzyset, as an exception, can only be installed with pip.
 
 The code is not elegant - it was written to explore data, that's all.
+
